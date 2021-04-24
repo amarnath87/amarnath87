@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amarnath87
-- 👀 I’m interested in software developement 
+- 👀 I’m interested in Software development
 - 🌱 I’m currently learning C++,Python,Rust
 - 💞️ I’m looking to collaborate on conributing to open source projects
 - 📫 How to reach me - amar.bza@gmail.com
