@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amarnath87
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning C++,Python,Rust
+- 🌱 I’m currently learning C++,Python, Machine Learning
 - 💞️ I’m looking to collaborate on conributing to open source projects
 - 📫 How to reach me - amar.bza@gmail.com
 
